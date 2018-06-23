@@ -1,0 +1,234 @@
+{
+    "testTitle": {
+        "title": "人格特質自我診斷"
+    },
+    "testDesc": {
+        "description": "就以下32題的內容，由a或b選出較能正確描述你平常行為的選項，如果兩者的敘述都非常接近你的行為，仍須選擇較為接近者，本問卷不計分數，請仔細回答並於上課時帶到課堂。"
+    },
+    "questions": [
+        {
+            "index": "1",
+            "questionDesc": "我比較喜歡面對的問題是",
+            "selectionA": "嶄新而且複雜的問題",
+            "selectionB": "過去曾處理過的問題",
+            "answer": ""
+        },
+        {
+            "index": "2",
+            "questionDesc": "我的偏好是",
+            "selectionA": "在安靜的地方自己一個人工作",
+            "selectionB": "與任務小組一同工作",
+            "answer": ""
+        },
+        {
+            "index": "3",
+            "questionDesc": "我希望的主管是",
+            "selectionA": "決策時清楚設定標準並確實執行",
+            "selectionB": "關心個別的需求並能視情況允許例外",
+            "answer": ""
+        },
+        {
+            "index": "4",
+            "questionDesc": "當我執行專案時",
+            "selectionA": "傾向盡快完成予以結案",
+            "selectionB": "常會保留彈性以因應可能的變化",
+            "answer": ""
+        },
+        {
+            "index": "5",
+            "questionDesc": "決策時我考量的最重要因素是",
+            "selectionA": "合理的想法、意見及資料數據",
+            "selectionB": "價值與他人的感受",
+            "answer": ""
+        },
+        {
+            "index": "6",
+            "questionDesc": "參與專案時我傾向",
+            "selectionA": "反覆思考再決定如何進行",
+            "selectionB": "立即行動，邊執行邊思考如何進行",
+            "answer": ""
+        },
+        {
+            "index": "7",
+            "questionDesc": "我比較喜歡執行專案時",
+            "selectionA": "盡可能地提高掌握程度",
+            "selectionB": "探詢各種可能的選擇",
+            "answer": ""
+        },
+        {
+            "index": "8",
+            "questionDesc": "工作時我偏好",
+            "selectionA": "同時參與數個專案，並盡可能地行各專案學習",
+            "selectionB": "只加入一個極具挑戰性且工作繁忙的專案",
+            "answer": ""
+        },
+        {
+            "index": "9",
+            "questionDesc": "我通常",
+            "selectionA": "開始做一件事之前會先規畫並列出工作項目，而且討厭大幅變更我的計畫",
+            "selectionB": "避免事先規畫，採取行動後讓任務自然推展",
+            "answer": ""
+        },
+        {
+            "index": "10",
+            "questionDesc": "與同事討論問題時，我比較能夠",
+            "selectionA": "站在全面性的觀點",
+            "selectionB": "掌握特定的細節",
+            "answer": ""
+        },
+        {
+            "index": "11",
+            "questionDesc": "辦公室或家中電話響起時，我通常",
+            "selectionA": "視為干擾",
+            "selectionB": "隨手接起電話",
+            "answer": ""
+        },
+        {
+            "index": "12",
+            "questionDesc": "比較適合描述我的辭彙是",
+            "selectionA": "分析型的",
+            "selectionB": "具有同理心",
+            "answer": ""
+        },
+        {
+            "index": "13",
+            "questionDesc": "當我做執行工作時，傾向於",
+            "selectionA": "穩定而持續地執行",
+            "selectionB": "有衝勁時多做一些，低落時暫停執行",
+            "answer": ""
+        },
+        {
+            "index": "14",
+            "questionDesc": "當別人談論某個主題時，通常我會試著",
+            "selectionA": "連結過去的經驗並思考是否相符",
+            "selectionB": "分析並評估對方所傳遞的訊息",
+            "answer": ""
+        },
+        {
+            "index": "15",
+            "questionDesc": "一般來說，有新想法時我會",
+            "selectionA": "大膽嘗試",
+            "selectionB": "再三斟酌此想法",
+            "answer": ""
+        },
+        {
+            "index": "16",
+            "questionDesc": "執行專案時我比較喜歡",
+            "selectionA": "縮小範圍以便能清楚界定",
+            "selectionB": "擴大範圍以包含相關項目",
+            "answer": ""
+        },
+        {
+            "index": "17",
+            "questionDesc": "閱讀時我通常",
+            "selectionA": "以文字內容設定思考範圍",
+            "selectionB": "思考字裡行間的意義並與其他想法連結",
+            "answer": ""
+        },
+        {
+            "index": "18",
+            "questionDesc": "當我必須很快的決定",
+            "selectionA": "我感到不安並希望可以獲得更多資訊",
+            "selectionB": "我能夠以現有的資料來決定",
+            "answer": ""
+        },
+        {
+            "index": "19",
+            "questionDesc": "在會議中我傾向",
+            "selectionA": "一邊發言，一邊整理我的論點",
+            "selectionB": "仔細思考完該議題後才會發言",
+            "answer": ""
+        },
+        {
+            "index": "20",
+            "questionDesc": "工作時我將大部分的時間用來處理",
+            "selectionA": "意見與構想",
+            "selectionB": "與人相關的部分",
+            "answer": ""
+        },
+        {
+            "index": "21",
+            "questionDesc": "會議中我最無法忍受的行為是",
+            "selectionA": "提出許多粗略不完整的想法",
+            "selectionB": "討論實際的細節而拖延會議的進度",
+            "answer": ""
+        },
+        {
+            "index": "22",
+            "questionDesc": "我習慣",
+            "selectionA": "早睡早起",
+            "selectionB": "當夜貓子",
+            "answer": ""
+        },
+        {
+            "index": "23",
+            "questionDesc": "開會前我採用的準備方式為",
+            "selectionA": "有意願參與並將於會議中積極回應",
+            "selectionB": "充分準備同時草擬會議的綱要",
+            "answer": ""
+        },
+        {
+            "index": "24",
+            "questionDesc": "會議時我傾向引導與會者",
+            "selectionA": "有機會表現各種情緒",
+            "selectionB": "以任務相關為主",
+            "answer": ""
+        },
+        {
+            "index": "25",
+            "questionDesc": "我選擇工作時注重",
+            "selectionA": "工作本身是否能激發智慧",
+            "selectionB": "對該組織的目標和使命是否認同",
+            "answer": ""
+        },
+        {
+            "index": "26",
+            "questionDesc": "週末時我會",
+            "selectionA": "預先規劃要做的事",
+            "selectionB": "屆時視情況再作決定",
+            "answer": ""
+        },
+        {
+            "index": "27",
+            "questionDesc": "我屬於",
+            "selectionA": "外顯傾向(outgoing)",
+            "selectionB": "深思熟慮(contemplative)",
+            "answer": ""
+        },
+        {
+            "index": "28",
+            "questionDesc": "我比較喜歡的老闆是",
+            "selectionA": "充滿新點子",
+            "selectionB": "講求實際",
+            "answer": ""
+        },
+        {
+            "index": "29",
+            "questionDesc": "請由以下各題所列出的兩個人格特質，找出相對比較吸引你的類型(that appeals to you more)",
+            "selectionA": "社交型(social)",
+            "selectionB": "理論型(theoretical)",
+            "answer": ""
+        },
+        {
+            "index": "30",
+            "questionDesc": "請由以下各題所列出的兩個人格特質，找出相對比較吸引你的類型(that appeals to you more)",
+            "selectionA": "足智多謀型(ingenuity)",
+            "selectionB": "務實型(practicality)",
+            "answer": ""
+        },
+        {
+            "index": "31",
+            "questionDesc": "請由以下各題所列出的兩個人格特質，找出相對比較吸引你的類型(that appeals to you more)",
+            "selectionA": "有條有理型(organized)",
+            "selectionB": "順應型(adaptable)",
+            "answer": ""
+        },
+        {
+            "index": "32",
+            "questionDesc": "請由以下各題所列出的兩個人格特質，找出相對比較吸引你的類型(that appeals to you more)",
+            "selectionA": "活躍型(active)",
+            "selectionB": "專注型(concentration)",
+            "answer": ""
+        }
+    ]
+}
