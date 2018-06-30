@@ -1,19 +1,23 @@
+import json
 
 class analsys:
-    def __init__(self):
-       self.introversion = 0;
-       self.extroversion = 0;
+    def __init__(self, filename="result.json"):
+        self.introversion = 0;
+        self.extroversion = 0;
 
-       self.sensing = 0;
-       self.intuition = 0;
+        self.sensing = 0;
+        self.intuition = 0;
 
-       self.thinking = 0;
-       self.feeling = 0;
+        self.thinking = 0;
+        self.feeling = 0;
 
-       self.judging = 0;
-       self.perceiving = 0;
+        self.judging = 0;
+        self.perceiving = 0;
 
-       self.ret = [];
+        self.ret = [];
+
+        with open(filename) as f:
+                self.data = json.load(f);
 
     def aptAlgo(self, reportArray):
         totalNum = len(reportArray);
@@ -144,3 +148,31 @@ class analsys:
 
         print("(J)judging: %d" % self.judging);
         print("(P)perceiving: %d" % self.perceiving);
+
+    def getFinalResult(self, result):
+        # print left, top, right, bottom description
+        for leftKey in self.data["resultType"]["leftPresPos"]:
+            if leftKey["abbreviation"] == result[0]:
+                print("%s\n%s\n" % (leftKey["type"], leftKey["description"]));
+                
+        for rightKey in self.data["resultType"]["rightPresPos"]:
+            if rightKey["abbreviation"] == result[3]:
+                print("%s\n%s\n" % (rightKey["type"], rightKey["description"]));
+                
+        for topKey in self.data["resultType"]["topPresPos"]:
+            if topKey["abbreviation"] == result[1]:
+                print("%s\n%s\n" % (topKey["type"], topKey["description"]));
+
+        for bottomKey in self.data["resultType"]["bottomPresPos"]:
+            if bottomKey["abbreviation"] == result[2]:
+                print("%s\n%s\n" % (bottomKey["type"], bottomKey["description"]));
+
+        # convert result list to String
+        resultStr = ''.join(result);
+
+        # search the key title and print the description from resultList
+        for checkMatch in self.data["resultList"]:
+            if resultStr == checkMatch["title"]:
+                print("%s\n%s\n" % (checkMatch["title"], checkMatch["description"]));
+                break;
+

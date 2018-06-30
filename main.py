@@ -12,9 +12,10 @@ userAge = int(input("Age(Number only):"));
 
 user = aptTest.userInfo.userInfo(userName,userSex, userAge);
 '''
+
 user = aptTest.userInfo.userInfo();
 questions = aptTest.question.questions("question.json");
-analsys = aptTest.analsys.analsys();
+analsys = aptTest.analsys.analsys("result.json");
 #user.getUserInfo();
 
 print("qnum:%d" % questions.getQuestionNum());
@@ -25,9 +26,18 @@ for i in range(0, questions.getQuestionNum()):
     questions.setAnswer(i);
 
 # list all result
+'''
 for j in range(0, questions.getQuestionNum()):
     questions.getAnswer(j);
+'''
 
 result = analsys.aptAlgo(questions.getReportArray());
 print("Your test result is: %s" % result);
-analsys.getCountResult();
+#analsys.getCountResult();
+analsys.getFinalResult(result);
+
+# Below code is for local result test
+'''
+analsys = aptTest.analsys.analsys("result.json");
+analsys.getFinalResult(["I","S","T","P"]);
+'''

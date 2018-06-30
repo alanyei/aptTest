@@ -1,0 +1,169 @@
+{
+    "resultType": {
+            "leftPresPos": [
+                {
+                    "type": "introversion",
+                    "abbreviation": "I",
+                    "description": "內在/自我反思"
+                },
+                {
+                    "type": "extroversion",
+                    "abbreviation": "E",
+                    "description": "外在/互動"
+                }
+            ],
+            "rightPresPos": [
+                {
+                    "type": "judging",
+                    "abbreviation": "J",
+                    "description": "判斷/有計畫"
+                },
+                {
+                    "type": "perceiving",
+                    "abbreviation": "P",
+                    "description": "認知/即興"
+                }
+            ],
+            "topPresPos": [
+                {
+                    "type": "sensing",
+                    "abbreviation": "S",
+                    "description": "實際/具體/細節"
+                },
+                {
+                    "type": "intuition",
+                    "abbreviation": "N",
+                    "description": "直覺/新可能/大局"
+                }
+            ],
+            "bottomPresPos": [
+                {
+                    "type": "thinking",
+                    "abbreviation": "T",
+                    "description": "思考/客觀"
+                },
+                {
+                    "type": "feeling",
+                    "abbreviation": "F",
+                    "description": "情感/主觀"
+                }
+            ]
+    },
+
+    "result2Type": [
+        {
+            "type": "introversion",
+            "abbreviation": "I",
+            "presentPosition": "left",
+            "description": "內在/自我反思"
+        },
+        {
+            "type": "extroversion",
+            "abbreviation": "E",
+            "presentPosition": "left",
+            "description": "外在/互動"
+        },
+        {
+            "type": "sensing",
+            "abbreviation": "S",
+            "presentPosition": "top",
+            "description": "實際/具體/細節"
+        },
+        {
+            "type": "intuition",
+            "abbreviation": "N",
+            "presentPosition": "top",
+            "description": "直覺/新可能/大局"
+        },
+        {
+            "type": "thinking",
+            "abbreviation": "T",
+            "presentPosition": "bottom",
+            "description": "思考/客觀"
+        },
+        {
+            "type": "feeling",
+            "abbreviation": "F",
+            "presentPosition": "bottom",
+            "description": "情感/主觀"
+        },
+        {
+            "type": "judging",
+            "abbreviation": "J",
+            "presentPosition": "right",
+            "description": "判斷/有計畫"
+        },
+        {
+            "type": "perceiving",
+            "abbreviation": "P",
+            "presentPosition": "right",
+            "description": "認知/即興"
+        }
+    ],
+    "resultList": [
+        {
+            "title": "ISTJ",
+            "description": "具備沈靜、認真、貫徹始終與值得信賴的特質。凡事講求實際、實事求是並具有責任感。能夠邏輯性的規劃須完成的任務，並可免於干擾而逐步完成工作，樂於有條有理地處理工作、家庭或生活上的各項事務。重視傳統與忠誠。"
+        },
+        {
+            "title": "ISFJ",
+            "description": "特質為沈靜、友善、謹慎而負責，能夠堅定不移地履行義務。做事貫徹始終，不辭辛勞而且準確無誤。忠誠而細辛，會特別留意而記住重要人物的小細節。顧慮他人的感受，無論在工作或家庭生活，皆努力創造有秩序而和諧的環境。"
+        },
+        {
+            "title": "INFJ",
+            "description": "會探求人際關係、想法及實物權之間的意義及關聯性。希望找出激發他人的動力，並能洞悉別人的想法。謹慎地遵循並履行自我的價值觀。對於如何盡力取得群體獲益，有清楚的理念。能夠有條理、果斷地實踐理念。"
+        },
+        {
+            "title": "INTJ",
+            "description": "思維具有原創性，也有衝勁去實踐想法以達成目標。能夠很快遞看出事件的型態，並建立寬廣的論點。一旦承諾，便會有條理地工作至完成為止。見解獨立不會盡信於他人，才能與表現皆具有高度的水準。"
+        },
+        {
+            "title": "ISTP",
+            "description": "靈活有彈性、沈靜而包容的觀察者。當問題出現時，會迅速行動以找出可行的解決方案，能夠解析此工作順利進行的要素，也能由大量資料找出實際問題的核心。對前因後果很有興趣，並能邏輯性的組織事實，重視效率。"
+        },
+        {
+            "title": "ISFP",
+            "description": "屬於沈靜、友善、敏感而仁慈的類型。享受當下週遭事物營造的氛圍。希歡依自己所設定的時間表與空間做事。對於個人的價值觀及重要人物，會維持忠誠並信守承諾。不喜歡意見紛歧和衝突，不會強迫他人接受自己的看法或價值觀。"
+        },
+        {
+            "title": "INFP",
+            "description": "理想主義、忠於自己的價值觀和重要人物。希望外在的生活周遭與內在的個人價值和諧一致。有好奇心，能很快地找出各種可能，催化想法的實踐。試圖了解並協助他人發揮潛能。適應力強、靈活有彈性；在不牴觸自我價值的前提下均可接納。"
+        },
+        {
+            "title": "INTP",
+            "description": "尋求邏輯性的解釋有趣的事物，喜歡理論和抽象思考，勝於社交性的互動。陳靜、滿足、靈活有彈性、適應力強。針對感興趣的領域，具備非凡的能力設法專注而深刻地解決問題。屬於分析行，他人意見不會照單全收，有時還會批判對方。"
+        },
+        {
+            "title": "ESTP",
+            "description": "特質為包容、靈活有彈性，自然而然，專心於即時效果並且以整體規劃的方式進行。厭倦理論和概念性的解釋，卻能以充滿活力的行動解決問題，若透過實踐去學習效果最好。專注於每個當下，喜歡活躍地與他人互動時的感覺，享受於物質帶來的舒適與生活方式。"
+        },
+        {
+            "title": "ESFP",
+            "description": "具備外向、友善與接納他人的特質。熱愛生命、人與物質享受，喜歡與他共事。能運用常識與實事求是的方法工作，並使工作有趣。靈活有彈性，自然而然，易於適應新環境及陌生人。與他人一同學習新技能可達到最佳效果。"
+        },
+        {
+            "title": "ENFP",
+            "description": "非常熱情並富有想像力，認為生活充滿著多種可能性。能迅速地看出事件與資訊的關聯性，並且自信地以觀察到的脈絡持續前進。需要他人給予較多的肯定，也樂於欣賞和支持別人。靈活有彈性、自然而然，常仰仗流暢的表達力和臨場的即興表現。"
+        },
+        {
+            "title": "ENTP",
+            "description": "坦率而機警、思緒敏捷，能隨機應變地解決富挑戰性的新問題。善於概念性的創造各種方案，再進一步策略性的分析這些方案。能讀出他人的心思，對於例規不感興趣。少以相同方式處理同類事務，傾向轉移注意到下一個更新的事物上。"
+        },
+        {
+            "title": "ESTJ",
+            "description": "講求實際、實事求是，迅速果斷地朝向執行決策。能組織專案與人員完成工作，專注以最有效率的方式得到結果。關心例行的細節，有清楚的邏輯標準，不僅有系統地依此標準執行，同時也希望他人找做，會以強硬的態度實行計劃。"
+        },
+        {
+            "title": "ESFJ",
+            "description": "屬於充滿愛心、合作、謹慎盡責的類型。有決心去營造和諧的環境，喜歡與他人共同正確而準時地完成任務。即使是小事也終於信念，注意到他人在日常生活中的需要並試著協助。渴望別人讚賞他們的貢獻和個人特質。"
+        },
+        {
+            "title": "ENFJ",
+            "description": "溫暖熱情、容易感動而負責。善解他人的情緒、需要和動機，不但能找出也願意幫助別人發會潛能，可以催化個人與團體的成長。忠於信念，對讚美或批評都有回應。於團體中善於社交並能惠及他人，具備激發他人的領導能力。"
+        },
+        {
+            "title": "ENTJ",
+            "description": "誠實果斷，覺得自己具備領導能力。能迅速地看出不合邏輯、缺乏效率的程序及政策，以及發展、執行系統化的制度，解決組織的問題。喜歡長期規劃和設定目標，博學多聞、樂於延伸並傳遞知識，會強力地提出個人見解。"
+        }
+    ]
+}
